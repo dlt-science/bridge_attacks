@@ -1,0 +1,45 @@
+,Bridge,Date,Amount lost (in Million USD),Technique,SlowMist,DeFiLlama
+1,Thorchain,2021/6/29,0.14,False top-up,√,
+2,ChainSwap,2021/7/2,0.8,Contract Vulnerability,√,
+3,ChainSwap,2021/7/11,4,Exploit Weak Authentication Check,√,√
+4,Multichain,2021/7/10,7.9,Private Key Compromised (Bad ECDSA Implementation),√,√
+5,Thorchain,2021/7/15,7.6,Over-ride Logic Exploit,√,√
+6,Thorchain,2021/7/22,8,Refund Logic Exploit,√,√
+7,Thorchain,2021/7/24,0.076,Phishing attack,√,
+8,Poly Network,2021/8/10,611,Access Control Exploit,√,√
+9,pNetwork,2021/9/20,13,Contract Vulnerability,√,
+10,Plasma Bridge,2021/10/5,0,exit one burn transaction from the bridge multiple times,,
+11,Synapse Protocol?,2021/11/6,0,Price Manipulation,√,
+12,Nerve Bridge,2021/11/15,0.585,Logic Vulnerability,√,
+13,Optics Bridge,2021/11/23,0,Multi-signature permission vulnerability,√,
+14,Multichain,2022/1/18,1.41,The validity of the parameter is not checked,√,
+15,Qubit Finance,2022/1/28,80,Transfer Logic Exploit,,√
+16,Wormhole,2022/2/2,326,Signature Exploit,√,√
+17,Meter,2022/2/6,7.7,Deposit Function Exploit,√,√
+18,Ronin,2022/3/23,624,Private Key Compromised (Social Engineering),√,√
+19,Marvin Inu,2022/4/11,0.35,Private key compromise,√,
+20,Rainbow Bridge,2022/5/2,0,Fake NEAR blocks,√,
+21,QANX Bridge,2022/5/18,2.2,Private Key Leakage,√,
+22,Harmony Bridge,2022/6/23,100,Private Key Compromised (Unknown Method),√,√
+23,Nomad,2022/8/1,190,Trusted Root Exploit,√,√
+24,Celer,2022/8/18,0.24,BGP Hijacking,√,
+25,Rainbow Bridge,2022/8/20,0.008,Fake NEAR blocks,√,
+26,KyberSwap,2022/9/1,0.265,Cloudflare Key Compromised,,√
+27,OmniBridge,2022/9/18,0.29,Replay Attack (possible ChainID vulnerability),,
+28,Transit Swap,2022/10/2,21,Transfer Logic Exploit,,√
+29,Binance Bridge,2022/10/6,570,Proof Verifier Bug,,√
+30,QANX Bridge,2022/10/11,2,Profanity Vulnerability,√,
+31,Thorchain,2022/10/28,0,Network interruption,√,
+32,Rubic,2022/11/2,1.2,Private Key Leakage,√,
+33,pNetwork,2022/11/4,10.8,Configuration Error,√,
+34,Rubic,2022/12/25,1.41,Router Exploit,√,√
+35,Orion,2023/2/2,3,Reentrancy Attack,,√
+36,Multichain,2023/2/15,0.13,Rush Attack,√,
+37,Allbridge,2023/4/2,0.57,Flashloan Price Oracle Attack,√,√
+38,zkLink,2023/4/19,0,Discord was hacked,√,
+39,Celer,2023/5/24,0,"vulnerability could allow a malicious validator to submit a large number of fraudulent ""votes""",√,
+40,Multichain,2023/5/25,0,route exploit,√,
+41,Poly Network,2023/7/2,10,Private Key Compromised (Unknown Method),√,√
+42,Multichain,2023/7/7,126,Private Key Compromised (Unknown Method),√,√
+43,Connext,2023/9/5,0.039,DoS Attack,√,
+,SUM (in Million USD),,2731.713,,36,19
