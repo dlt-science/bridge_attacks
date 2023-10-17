@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Process the raw data and save the processed data as a CSV file
 def process_and_save_data():
     # Read the raw data
-    df = pd.read_csv('./data/Bridge_Real_Life_Attack_Incidents_Info.csv',encoding='utf-8')
+    df = pd.read_csv('./data/Bridge_Real_Life_Attack_Incidents_Info_1017.csv',encoding='utf-8')
 
     # Convert the date column to a date type
     df['Date'] = pd.to_datetime(df['Date'], format='%Y/%m/%d')
