@@ -733,21 +733,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1H_yKi9L83crWAuIHYsw" name="notary">
-    <mxGraphModel dx="1619" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="352" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XusCWmgI70eAu59zxA6T-1" value="Process&lt;div&gt;1. ---&lt;/div&gt;&lt;div&gt;2. ---&lt;/div&gt;&lt;div&gt;3. ---&lt;/div&gt;&lt;div&gt;4. ---&lt;/div&gt;&lt;div&gt;5. ---&lt;/div&gt;&lt;div&gt;6. ---&lt;/div&gt;&lt;div&gt;7. ---&lt;/div&gt;&lt;div&gt;8. ---&lt;/div&gt;&lt;div&gt;9. ---&lt;/div&gt;&lt;div&gt;10. ---&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="70" height="190" as="geometry" />
+        <mxCell id="XusCWmgI70eAu59zxA6T-1" value="Notary Bridge Mechanism&lt;div&gt;1. ---&lt;/div&gt;&lt;div&gt;2. ---&lt;/div&gt;&lt;div&gt;3. ---&lt;/div&gt;&lt;div&gt;4. ---&lt;/div&gt;&lt;div&gt;5. ---&lt;/div&gt;&lt;div&gt;6. ---&lt;/div&gt;&lt;div&gt;7. ---&lt;/div&gt;&lt;div&gt;8. ---&lt;/div&gt;&lt;div&gt;9. ---&lt;/div&gt;&lt;div&gt;10. ---&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7" y="7" width="160" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="fP22vBB8xQbGWHfzeHVv" name="side_chain">
-    <mxGraphModel dx="1862" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3310" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZS4fiYbvsKcNJRLWJ0qM-1" value="Sidechain/Relay Bridge Mechanism&lt;div&gt;1. ---&lt;/div&gt;&lt;div&gt;2. ---&lt;/div&gt;&lt;div&gt;3. ---&lt;/div&gt;&lt;div&gt;4. ---&lt;/div&gt;&lt;div&gt;5. ---&lt;/div&gt;&lt;div&gt;6. ---&lt;/div&gt;&lt;div&gt;7. ---&lt;/div&gt;&lt;div&gt;8. ---&lt;/div&gt;&lt;div&gt;9. ---&lt;/div&gt;&lt;div&gt;10. ---&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="10" width="210" height="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
